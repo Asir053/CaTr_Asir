@@ -6,8 +6,7 @@ The captions and images of the BanglaLekhaImageCaptions (https://data.mendeley.c
 
 ### Preprocessing:
 For preprocessing using keras I imported the preprocessing of the 	preprocess_input library of the Xception pretrained model 
-```from tensorflow.keras.applications.xception import preprocess_input
-``` 
+```from tensorflow.keras.applications.xception import preprocess_input``` 
 because this preprocessing function has yielded decent results for RGB images in recent works.
 
 *** Changes in the code:
