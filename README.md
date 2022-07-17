@@ -33,3 +33,4 @@ to keep it consistent with the image names of our dataset.
 For training we follow the instructions given in ```README.md``` of (https://github.com/saahiluppal/catr) 
 After 21 epochs the training and validation loss are 4.56*10^-9 and 2.79*10^-9 respectively.
 
+![image](https://drive.google.com/uc?export=view&id=1T6LN3_wEETipHYRQzlch8ufufgIFTVBS)
